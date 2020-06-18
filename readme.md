@@ -1,4 +1,4 @@
-![Logica]()https://img.shields.io/badge/Logica-Material-red
+![Logica](https://img.shields.io/badge/Logica-Material-red)
 
 # Material Logica
 Meu material de logica de Progamação para UC09 do Vila Prudente
